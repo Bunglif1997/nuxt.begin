@@ -1,0 +1,16 @@
+[
+  {
+    "name": "list",
+    "path": "/list",
+    "component": "C:\\\\Users\\\\ALFT\\\\Desktop\\\\Nuxt\\\\pages\\\\list.vue",
+    "chunkName": "pages/list",
+    "_name": "_6c41f9a2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ALFT\\\\Desktop\\\\Nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e5143ade"
+  }
+]
